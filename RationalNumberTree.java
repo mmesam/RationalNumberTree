@@ -1,8 +1,5 @@
 /**
  * SOFE 2715: Data Structures and Algorithms
- * Final Group Project: Rational Number Tree (Binary Tree)
- * Authors: Anuj Shukla, Syed Mesam Jafri, Nathaniel Kebere, Aditya Ravi
- * Date: March 12, 2024
  */
 
 import java.math.BigInteger;
